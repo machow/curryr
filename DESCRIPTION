@@ -1,0 +1,13 @@
+Package: curryr
+Type: Package
+Title: Currying for fun and profit
+Version: 0.0.1
+Author: Michael Chow
+Maintainer: Michael Chow <machow@princeton.edu>
+Description: This package implements proper currying,
+    as a complement to partial functions.
+License: MIT + file LICENSE
+LazyData: TRUE
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
